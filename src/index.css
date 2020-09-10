@@ -5,6 +5,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.collection-item:hover {
+.collection-item span:hover {
   text-decoration: line-through;
 }
